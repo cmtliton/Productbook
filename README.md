@@ -12,7 +12,7 @@
  - Suppliers Management.
 # Download
 # Release
-- [Windows version 64 bit](https://github.com/cmtliton/Phonebook/releases)
+- [Windows version](https://github.com/cmtliton/Productbook/releases/latest)
 ## Screenshot
 <p align="center">
 <img src="https://github.com/cmtliton/Productbook/blob/master/Dashboard.png" width="400px">
