@@ -13,6 +13,8 @@
 # Download
 # Release
 - [Windows version](https://github.com/cmtliton/Productbook/releases/download/v0.0.1/Productbook.Setup.0.0.1.exe)
+- [iOs version Comming...]
+- [Android version Comming...]
 ## Screenshot
 <p align="center">
 <img src="https://github.com/cmtliton/Productbook/blob/master/Dashboard.png" width="400px">
