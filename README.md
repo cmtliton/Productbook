@@ -1,7 +1,7 @@
 # Productbook
 - Easiest way to manage your products
 # Features 
- - A desktop application for managing Stock/Inventory
+ - A Desktop Application for Managing Stock/Inventory
  - App is awesome!
  - App will be work offline/online
  - Inventory Dashboard
