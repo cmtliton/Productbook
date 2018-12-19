@@ -11,6 +11,7 @@
  - Due Management
  - Customers Management
  - Suppliers Management
+ - Warehouse Management
  - App will be updated automatically
 # Download
 # Release
