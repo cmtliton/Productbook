@@ -28,7 +28,7 @@
 
 # Technical
 #### How ?
-This application is builded with [Electron](https://electron.atom.io) and web technologies (javascript, css, html) more specifically: [Vue.js](https://vuejs.org).)
+This application is builded with [Electron](https://electron.atom.io) and web technologies (javascript, css, html) more specifically: [Vue.js](https://vuejs.org), [Vuetify](https://vuetifyjs.com/en/) and Javascript Database [lowdb](https://github.com/typicode/lowdb).)
 
 #### Build Setup
 You can build it yourself instead of downloading executable:
