@@ -1,5 +1,5 @@
 # Productbook
-- Easiest way to manage your products
+- The Easiest way to manage your products
 # Features 
  - A Desktop Application for Managing Stock/Inventory
  - App is awesome!
