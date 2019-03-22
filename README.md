@@ -15,7 +15,7 @@
  - App will be updated automatically
 # Download
 # Release
-- [Windows version](https://github.com/cmtliton/Productbook/releases/download/v0.0.1/Productbook.Setup.0.0.1.exe)
+- [Windows version](https://github.com/cmtliton/Productbook/releases/download/v0.0.1/Productbook.Setup.1.0.0.exe)
 - [iOS version comming...]()
 - [Android version comming...]()
 ## Screenshot
