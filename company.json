@@ -1,0 +1,1584 @@
+{
+  "Company": [
+    {
+      "ComName": "ABC Limited",
+      "Addr": "Dhaka",
+      "Tel": "",
+      "Mobile": "01728493546",
+      "Email": "sirajgonj@pubalibankbd.com",
+      "CreatedDate": "2020-09-16T14:18:36.167Z",
+      "Items": [
+        {
+          "id": "IrsanNuuve",
+          "ItemName": "Soap",
+          "Status": true,
+          "CreatedDate": "2020-09-16T14:19:07.075Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "I-LsQhZzqe",
+          "ItemName": "Antiseptic",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:27:56.018Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "IzmxeUARFS",
+          "ItemName": "Wipes",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:17:09.214Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "IFG9gVMmjY",
+          "ItemName": "Hand Sanitizer",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:21:34.503Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "I9PPYkoAAr",
+          "ItemName": "Handwash",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:43:48.526Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-17T12:49:09.548Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "IV33bhvTE6",
+          "ItemName": "Floor Cleaner",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:11:55.387Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-17T13:18:28.340Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "IFWD2fA2z5",
+          "ItemName": "Glass Cleaner",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:28:05.068Z",
+          "CreatorId": "BNlpw3_98"
+        }
+      ],
+      "Brands": [
+        {
+          "id": "B36p5Ud6y0",
+          "BrandName": "Savlon",
+          "Status": true,
+          "CreatedDate": "2020-09-16T14:19:16.295Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "BetHcQl0Lu",
+          "BrandName": "ACI",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:40:43.743Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "BZ3DAd6opK",
+          "BrandName": "Shinex",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:12:30.963Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "BC7Bf6DWCn",
+          "BrandName": "Septex",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:12:41.488Z",
+          "CreatorId": "BNlpw3_98"
+        }
+      ],
+      "Products": [
+        {
+          "id": "Poj3ojrA96",
+          "ProductName": "Active 125gm",
+          "PurchasePrice": "120",
+          "MRP": "45.05",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-16T14:22:52.512Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:13:58.549Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "P6J_c7jRzP",
+          "ProductName": "Fresh 35gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "9",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:16:20.485Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "Pbel2jNsN0",
+          "ProductName": "Fresh 75gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "32.43",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:17:06.728Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PBbRDFXzBG",
+          "ProductName": "Fresh 100gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "41.15",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:17:30.341Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PMz7WylwAJ",
+          "ProductName": "Fresh 125gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "45.05",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:17:55.594Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PWLiKjfmDZ",
+          "ProductName": "Cool 100gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "41.15",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:18:42.786Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PztqWtbuxL",
+          "ProductName": "Sensitive 100gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "41.15",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:19:33.770Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PGbs71os6T",
+          "ProductName": "Sports 100gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "41.15",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:20:13.574Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PcqYlxnwtI",
+          "ProductName": "Men 100gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "45.72",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T04:21:57.153Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "P56OQzPkHc",
+          "ProductName": "Liquid 56ml",
+          "PurchasePrice": "25",
+          "MRP": "29.12",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I-LsQhZzqe",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:12:59.110Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:12:25.574Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "P4hdU_n4M3",
+          "ProductName": "Liquid 112ml",
+          "PurchasePrice": "39",
+          "MRP": "40.04",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I-LsQhZzqe",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:13:40.197Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:08:33.642Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PZ1xZTDZ6G",
+          "ProductName": "Liquid 500ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "112",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I-LsQhZzqe",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:14:08.993Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PCPHfZUUEX",
+          "ProductName": "Liquid 1ltr",
+          "PurchasePrice": "195",
+          "MRP": "197",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I-LsQhZzqe",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:14:41.810Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:15:29.195Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PJJC9F4q8W",
+          "ProductName": "Liquid 5ltr",
+          "PurchasePrice": "250",
+          "MRP": "635",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I-LsQhZzqe",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:15:08.128Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:11:30.280Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "P6ccKX9MXd",
+          "ProductName": "Baby 60 Sheet",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "120",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IzmxeUARFS",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:17:43.803Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "P9-8rH1EZs",
+          "ProductName": "Baby Zar 100 Sheet",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "150",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IzmxeUARFS",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:19:07.071Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:16:06.819Z"
+        },
+        {
+          "id": "P95PrZqSO5",
+          "ProductName": "50ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "67.73",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IFG9gVMmjY",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:22:26.265Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PqX5S04Gw6",
+          "ProductName": "200ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "169.33",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IFG9gVMmjY",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T05:22:41.415Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PuNj2x2I_6",
+          "ProductName": "Sandal 125gm",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "39.60",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "BetHcQl0Lu",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:42:10.350Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PQCol0OC2P",
+          "ProductName": "Sandal 75gm",
+          "PurchasePrice": "120",
+          "MRP": "23.44",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IrsanNuuve",
+          "BrandId": "BetHcQl0Lu",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:42:48.260Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:13:49.045Z",
+          "UpdatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PBTYSKVd0v",
+          "ProductName": "Aloe Vera 200ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "49.50",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:48:57.774Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PRQ2JLoHhv",
+          "ProductName": "Aloe Vera 250ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "79.41",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:53:31.224Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PSXIUQBXOO",
+          "ProductName": "Aloe Vera 300ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "88.24",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:55:07.773Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "P6rPuXTPlO",
+          "ProductName": "Aloe Vera 500ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "135",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:57:05.816Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "Pg1fuAST0G",
+          "ProductName": "Aloe Vera 1ltr",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "204.81",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T12:58:32.834Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PKOGhFCpEC",
+          "ProductName": "Aloe Vera 5ltr",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "809.47",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:00:25.013Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PJzhoVwZss",
+          "ProductName": "Oean Blue 200ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "49.50",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:01:53.963Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PF5uuXFI1c",
+          "ProductName": "Ocean Blue 250ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "79.41",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:02:38.352Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PlTmvIxgm8",
+          "ProductName": "Ocean Blue 200ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "49.50",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:04:02.879Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PtFZuZI-bE",
+          "ProductName": "Ocean Blue 300ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "88.24",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:04:30.406Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "P9LAB2_fl2",
+          "ProductName": "Ocean Blue 500ml",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "135",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:05:00.534Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PeVmWmAf36",
+          "ProductName": "Ocean Blue 1ltr",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "204.81",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:05:34.291Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PKRgAczKNJ",
+          "ProductName": "Ocean Blue 5ltr",
+          "ProductCode": "",
+          "PurchasePrice": 0,
+          "MRP": "809.47",
+          "Warranty": "",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "I9PPYkoAAr",
+          "BrandId": "B36p5Ud6y0",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:06:03.584Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "PTBRq2AoJo",
+          "ProductName": "Clinet 1ltr",
+          "MRP": "147",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IV33bhvTE6",
+          "BrandId": "BZ3DAd6opK",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:13:55.400Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:12:05.638Z",
+          "UpdatorId": "BNlpw3_98",
+          "PurchasePrice": "140"
+        },
+        {
+          "id": "PUk1il9zmU",
+          "ProductName": "Clinet Spray 350ml",
+          "MRP": "104.88",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IFWD2fA2z5",
+          "BrandId": "BZ3DAd6opK",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:14:48.214Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:11:57.015Z",
+          "UpdatorId": "BNlpw3_98",
+          "PurchasePrice": "104"
+        },
+        {
+          "id": "PY_4cIkz61",
+          "ProductName": "Citrus 500ml",
+          "MRP": "117",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IV33bhvTE6",
+          "BrandId": "BC7Bf6DWCn",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:15:49.752Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:11:39.543Z",
+          "UpdatorId": "BNlpw3_98",
+          "PurchasePrice": "250"
+        },
+        {
+          "id": "PKUTnkYrFp",
+          "ProductName": "Citrus 1ltr",
+          "MRP": "200",
+          "MeasuringUnit": "Pcs",
+          "ItemId": "IV33bhvTE6",
+          "BrandId": "BC7Bf6DWCn",
+          "Status": true,
+          "CreatedDate": "2020-09-17T13:17:57.012Z",
+          "CreatorId": "BNlpw3_98",
+          "UpdatedDate": "2020-09-18T06:11:13.214Z",
+          "UpdatorId": "BNlpw3_98",
+          "PurchasePrice": "250"
+        }
+      ],
+      "Stocks": [
+        {
+          "id": "hDx3jwe_K",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "Poj3ojrA96",
+          "quantity": 8,
+          "SlNos": []
+        },
+        {
+          "id": "cOgmbRHBRX",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "P6ccKX9MXd",
+          "quantity": 5,
+          "SlNos": []
+        },
+        {
+          "id": "gKTnwD8QEl",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "PcqYlxnwtI",
+          "quantity": 7,
+          "SlNos": []
+        },
+        {
+          "id": "8w8-DTDtIH",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "PF5uuXFI1c",
+          "quantity": 3,
+          "SlNos": []
+        },
+        {
+          "id": "pnV6A6j_FR",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "PUk1il9zmU",
+          "quantity": 5,
+          "SlNos": []
+        },
+        {
+          "id": "IaRBmyWa8_",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "PY_4cIkz61",
+          "quantity": 4,
+          "SlNos": []
+        },
+        {
+          "id": "CbEEdZGOFs",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "PKUTnkYrFp",
+          "quantity": 3,
+          "SlNos": []
+        },
+        {
+          "id": "9yTh4lt1bAT",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "P95PrZqSO5",
+          "quantity": 3,
+          "SlNos": []
+        },
+        {
+          "id": "2LRcaItNxhy",
+          "PRN": "PRN200914AKuUgy_",
+          "ProductId": "PGbs71os6T",
+          "quantity": 3,
+          "SlNos": []
+        }
+      ],
+      "DailyStocks": [],
+      "Warehouses": [
+        {
+          "id": "WnIG_U8A7U",
+          "WarehouseName": "Godown 1",
+          "KeyPerson": "Limon",
+          "PhoneNumber": "01924345141",
+          "Address": "Dhaka",
+          "Status": true,
+          "CreatedDate": "2020-10-03T15:43:29.175Z",
+          "CreatorId": "BNlpw3_98"
+        }
+      ],
+      "WarehouseStocks": [],
+      "Transfers": [],
+      "Returns": [
+        {
+          "id": "RTN2010BIuwdrAU_",
+          "RtnDate": "2020-10-03T15:44:46.739Z",
+          "Status": true,
+          "CreatorId": "cmtliton"
+        }
+      ],
+      "PurOrds": [
+        {
+          "id": "PON209wIfhoii0d",
+          "PODate": "2020-09-18T05:24:45.087Z",
+          "Status": true,
+          "CreatorId": "cmtliton",
+          "SupplierId": "qcpkl-UJ5",
+          "POCartTotalqty": 78,
+          "POCartTotal": null,
+          "POitems": [
+            {
+              "ProductId": "Poj3ojrA96",
+              "title": "Soap Savlon Active 125gm",
+              "PurchasePrice": 0,
+              "quantity": 9,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P9-8rH1EZs",
+              "title": "Wipes Savlon Baby Zar 100 Sheet",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P6ccKX9MXd",
+              "title": "Wipes Savlon Baby 60 Sheet",
+              "PurchasePrice": 0,
+              "quantity": 5,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PCPHfZUUEX",
+              "title": "Antiseptic Savlon Liquid 1ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PZ1xZTDZ6G",
+              "title": "Antiseptic Savlon Liquid 500ml",
+              "PurchasePrice": 0,
+              "quantity": 4,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PcqYlxnwtI",
+              "title": "Soap Savlon Men 100gm",
+              "PurchasePrice": 0,
+              "quantity": 7,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PztqWtbuxL",
+              "title": "Soap Savlon Sensitive 100gm",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PMz7WylwAJ",
+              "title": "Soap Savlon Fresh 125gm",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PF5uuXFI1c",
+              "title": "Handwash Savlon Ocean Blue 250ml",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PUk1il9zmU",
+              "title": "Glass Cleaner Shinex Clinet Spray 350ml",
+              "quantity": 5,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PY_4cIkz61",
+              "title": "Floor Cleaner Septex Citrus 500ml",
+              "quantity": 4,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PKUTnkYrFp",
+              "title": "Floor Cleaner Septex Citrus 1ltr",
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PTBRq2AoJo",
+              "title": "Floor Cleaner Shinex Clinet 1ltr",
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P9LAB2_fl2",
+              "title": "Handwash Savlon Ocean Blue 500ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PlTmvIxgm8",
+              "title": "Handwash Savlon Ocean Blue 200ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PKOGhFCpEC",
+              "title": "Handwash Savlon Aloe Vera 5ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "Pg1fuAST0G",
+              "title": "Handwash Savlon Aloe Vera 1ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P6rPuXTPlO",
+              "title": "Handwash Savlon Aloe Vera 500ml",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PRQ2JLoHhv",
+              "title": "Handwash Savlon Aloe Vera 250ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PBTYSKVd0v",
+              "title": "Handwash Savlon Aloe Vera 200ml",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PJzhoVwZss",
+              "title": "Handwash Savlon Oean Blue 200ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PtFZuZI-bE",
+              "title": "Handwash Savlon Ocean Blue 300ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PeVmWmAf36",
+              "title": "Handwash Savlon Ocean Blue 1ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P56OQzPkHc",
+              "title": "Antiseptic Savlon Liquid 56ml",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PJJC9F4q8W",
+              "title": "Antiseptic Savlon Liquid 5ltr",
+              "PurchasePrice": 0,
+              "quantity": 4,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P95PrZqSO5",
+              "title": "Hand Sanitizer Savlon 50ml",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P4hdU_n4M3",
+              "title": "Antiseptic Savlon Liquid 112ml",
+              "PurchasePrice": "39",
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PGbs71os6T",
+              "title": "Soap Savlon Sports 100gm",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PWLiKjfmDZ",
+              "title": "Soap Savlon Cool 100gm",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            }
+          ],
+          "UpdatorId": "cmtliton",
+          "UpdatedDate": "2020-09-18T05:27:18.644Z"
+        },
+        {
+          "id": "PON2010HuxsWdJgS",
+          "PODate": "2020-10-23T14:18:50.498Z",
+          "Status": false,
+          "CreatorId": "cmtliton",
+          "SupplierId": "qcpkl-UJ5",
+          "POCartTotalqty": 3,
+          "POCartTotal": 39,
+          "POitems": [
+            {
+              "ProductId": "PGbs71os6T",
+              "title": "Soap Savlon Sports 100gm",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PWLiKjfmDZ",
+              "title": "Soap Savlon Cool 100gm",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P4hdU_n4M3",
+              "title": "Antiseptic Savlon Liquid 112ml",
+              "PurchasePrice": "39",
+              "quantity": 1,
+              "SlNos": []
+            }
+          ],
+          "UpdatorId": "cmtliton",
+          "UpdatedDate": "2020-10-23T14:18:57.121Z"
+        },
+        {
+          "id": "PON2010pLc3rHmkB",
+          "PODate": "2020-10-23T14:19:19.776Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        }
+      ],
+      "PurOrdRcvs": [
+        {
+          "id": "PRN200914AKuUgy_",
+          "PORDate": "2020-09-18T05:26:36.966Z",
+          "Status": true,
+          "CreatorId": "cmtliton",
+          "PON": "PON209wIfhoii0d",
+          "PORCartTotalqty": 78,
+          "PORCartTotal": null,
+          "PORitems": [
+            {
+              "ProductId": "Poj3ojrA96",
+              "title": "Soap Savlon Active 125gm",
+              "PurchasePrice": 0,
+              "quantity": 9,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P9-8rH1EZs",
+              "title": "Wipes Savlon Baby Zar 100 Sheet",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P6ccKX9MXd",
+              "title": "Wipes Savlon Baby 60 Sheet",
+              "PurchasePrice": 0,
+              "quantity": 5,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PCPHfZUUEX",
+              "title": "Antiseptic Savlon Liquid 1ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PZ1xZTDZ6G",
+              "title": "Antiseptic Savlon Liquid 500ml",
+              "PurchasePrice": 0,
+              "quantity": 4,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PcqYlxnwtI",
+              "title": "Soap Savlon Men 100gm",
+              "PurchasePrice": 0,
+              "quantity": 7,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PztqWtbuxL",
+              "title": "Soap Savlon Sensitive 100gm",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PMz7WylwAJ",
+              "title": "Soap Savlon Fresh 125gm",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PF5uuXFI1c",
+              "title": "Handwash Savlon Ocean Blue 250ml",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PUk1il9zmU",
+              "title": "Glass Cleaner Shinex Clinet Spray 350ml",
+              "quantity": 5,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PY_4cIkz61",
+              "title": "Floor Cleaner Septex Citrus 500ml",
+              "quantity": 4,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PKUTnkYrFp",
+              "title": "Floor Cleaner Septex Citrus 1ltr",
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PTBRq2AoJo",
+              "title": "Floor Cleaner Shinex Clinet 1ltr",
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P9LAB2_fl2",
+              "title": "Handwash Savlon Ocean Blue 500ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PlTmvIxgm8",
+              "title": "Handwash Savlon Ocean Blue 200ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PKOGhFCpEC",
+              "title": "Handwash Savlon Aloe Vera 5ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "Pg1fuAST0G",
+              "title": "Handwash Savlon Aloe Vera 1ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P6rPuXTPlO",
+              "title": "Handwash Savlon Aloe Vera 500ml",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PRQ2JLoHhv",
+              "title": "Handwash Savlon Aloe Vera 250ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PBTYSKVd0v",
+              "title": "Handwash Savlon Aloe Vera 200ml",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PJzhoVwZss",
+              "title": "Handwash Savlon Oean Blue 200ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PtFZuZI-bE",
+              "title": "Handwash Savlon Ocean Blue 300ml",
+              "PurchasePrice": 0,
+              "quantity": 1,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PeVmWmAf36",
+              "title": "Handwash Savlon Ocean Blue 1ltr",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P56OQzPkHc",
+              "title": "Antiseptic Savlon Liquid 56ml",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PJJC9F4q8W",
+              "title": "Antiseptic Savlon Liquid 5ltr",
+              "PurchasePrice": 0,
+              "quantity": 4,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P95PrZqSO5",
+              "title": "Hand Sanitizer Savlon 50ml",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "P4hdU_n4M3",
+              "title": "Antiseptic Savlon Liquid 112ml",
+              "PurchasePrice": "39",
+              "quantity": 2,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PGbs71os6T",
+              "title": "Soap Savlon Sports 100gm",
+              "PurchasePrice": 0,
+              "quantity": 3,
+              "SlNos": []
+            },
+            {
+              "ProductId": "PWLiKjfmDZ",
+              "title": "Soap Savlon Cool 100gm",
+              "PurchasePrice": 0,
+              "quantity": 2,
+              "SlNos": []
+            }
+          ],
+          "UpdatorId": "cmtliton",
+          "UpdatedDate": "2020-09-18T05:27:18.627Z"
+        }
+      ],
+      "Sales": [
+        {
+          "id": "INV2094IcFdeK1k",
+          "InvDate": "2020-09-18T05:29:18.293Z",
+          "Status": true,
+          "CreatorId": "cmtliton",
+          "BuyerId": "rIN72Q92s",
+          "InvCartTotalqty": 12,
+          "InvCartTotal": 1014.2499999999999,
+          "DiscountedTk": 0,
+          "VatTk": 0,
+          "Invitems": [
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PeVmWmAf36",
+              "MRP": "204.81",
+              "SlNos": [],
+              "quantity": 2
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PRQ2JLoHhv",
+              "MRP": "79.41",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PtFZuZI-bE",
+              "MRP": "88.24",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "P9LAB2_fl2",
+              "MRP": "135",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PJzhoVwZss",
+              "MRP": "49.50",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "Poj3ojrA96",
+              "MRP": "45.05",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PWLiKjfmDZ",
+              "MRP": "41.15",
+              "SlNos": [],
+              "quantity": 2
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PMz7WylwAJ",
+              "MRP": "45.05",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "P4hdU_n4M3",
+              "MRP": "40.04",
+              "SlNos": [],
+              "quantity": 2
+            }
+          ],
+          "UpdatorId": "cmtliton",
+          "UpdatedDate": "2020-09-18T05:30:32.852Z"
+        },
+        {
+          "id": "INV209tVMqJe4gy",
+          "InvDate": "2020-09-18T05:30:43.074Z",
+          "Status": true,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "INV209E1FXolJqp",
+          "InvDate": "2020-09-18T05:31:26.488Z",
+          "Status": true,
+          "CreatorId": "cmtliton",
+          "BuyerId": "rIN72Q92s",
+          "InvCartTotalqty": 13,
+          "InvCartTotal": 3469.36,
+          "DiscountedTk": 0,
+          "VatTk": 0,
+          "Invitems": [
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PCPHfZUUEX",
+              "MRP": "197",
+              "SlNos": [],
+              "quantity": 2
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PZ1xZTDZ6G",
+              "MRP": "112",
+              "SlNos": [],
+              "quantity": 4
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "P56OQzPkHc",
+              "MRP": "29.12",
+              "SlNos": [],
+              "quantity": 3
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PJJC9F4q8W",
+              "MRP": "635",
+              "SlNos": [],
+              "quantity": 4
+            }
+          ],
+          "UpdatorId": "cmtliton",
+          "UpdatedDate": "2020-09-18T05:31:56.104Z"
+        },
+        {
+          "id": "INV209_naK37CRm",
+          "InvDate": "2020-09-18T05:32:11.584Z",
+          "Status": true,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "INV209mHPbfgy5f",
+          "InvDate": "2020-09-18T05:32:49.625Z",
+          "Status": true,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "INV209JdwuN0DSZ",
+          "InvDate": "2020-09-18T05:45:36.640Z",
+          "Status": true,
+          "CreatorId": "cmtliton",
+          "BuyerId": "rIN72Q92s",
+          "InvCartTotalqty": 12,
+          "InvCartTotal": 2785.21,
+          "DiscountedTk": 56,
+          "VatTk": 139,
+          "Invitems": [
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PBTYSKVd0v",
+              "MRP": "49.50",
+              "SlNos": [],
+              "quantity": 2
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "Pg1fuAST0G",
+              "MRP": "204.81",
+              "SlNos": [],
+              "quantity": 2
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "P6rPuXTPlO",
+              "MRP": "135",
+              "SlNos": [],
+              "quantity": 2
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PKOGhFCpEC",
+              "MRP": "809.47",
+              "SlNos": [],
+              "quantity": 2
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PlTmvIxgm8",
+              "MRP": "49.50",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PztqWtbuxL",
+              "MRP": "41.15",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "P9-8rH1EZs",
+              "MRP": "150",
+              "SlNos": [],
+              "quantity": 1
+            },
+            {
+              "PRN": "PRN200914AKuUgy_",
+              "ProductId": "PTBRq2AoJo",
+              "MRP": "147",
+              "SlNos": [],
+              "quantity": 1
+            }
+          ],
+          "UpdatorId": "cmtliton",
+          "UpdatedDate": "2020-09-18T05:46:12.543Z"
+        },
+        {
+          "id": "INV209L7dGlN8DT",
+          "InvDate": "2020-09-18T05:46:53.694Z",
+          "Status": true,
+          "CreatorId": "cmtliton"
+        }
+      ],
+      "Buyers": [
+        {
+          "id": "rIN72Q92s",
+          "BuyerName": "Cash",
+          "PhoneNumber": "01924345141",
+          "Address": "Kazipur, Sirajgonj.",
+          "Status": true,
+          "CreatedDate": "2020-09-18T05:29:39.274Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "527fzhIUM",
+          "BuyerName": "Elama",
+          "PhoneNumber": "01924345144",
+          "Address": "dhaka",
+          "Status": true,
+          "CreatedDate": "2020-10-24T05:21:22.608Z",
+          "CreatorId": "BNlpw3_98"
+        }
+      ],
+      "BuyersPaymentHistory": [
+        {
+          "id": "0PgHeQCE-",
+          "BuyerId": "rIN72Q92s",
+          "INV": "INV2094IcFdeK1k",
+          "CollectedTk": 1014.2499999999999,
+          "Date": "2020-09-18T05:29:18.293Z",
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "oz50ah9_4",
+          "BuyerId": "rIN72Q92s",
+          "INV": "INV209E1FXolJqp",
+          "CollectedTk": 3469.36,
+          "Date": "2020-09-18T05:31:26.488Z",
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "u14lFHeZX",
+          "BuyerId": "rIN72Q92s",
+          "INV": "INV209JdwuN0DSZ",
+          "CollectedTk": 2868.21,
+          "Date": "2020-09-18T05:45:36.640Z",
+          "CreatorId": "cmtliton"
+        }
+      ],
+      "SaleReturns": [
+        {
+          "id": "SRN20010_VwDcE75Q",
+          "SaleReturnDate": "2020-10-23T13:02:47.030Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN200104O_H27raE",
+          "SaleReturnDate": "2020-10-23T14:14:25.747Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010iCS8Lo1nU",
+          "SaleReturnDate": "2020-10-23T14:27:22.602Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN200104FDoRWLLe",
+          "SaleReturnDate": "2020-10-23T14:49:34.444Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010zQqfXwNs9",
+          "SaleReturnDate": "2020-10-23T14:49:44.288Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010pDquC15Go",
+          "SaleReturnDate": "2020-10-23T14:58:04.747Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010jbkqNzWDc",
+          "SaleReturnDate": "2020-10-23T15:05:35.134Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010JpqE__1D-",
+          "SaleReturnDate": "2020-10-23T15:07:17.658Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010ytM-oJt4B",
+          "SaleReturnDate": "2020-10-23T15:17:05.780Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010Ed6nluCpZ",
+          "SaleReturnDate": "2020-10-24T04:45:33.610Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010W6fAr86hc",
+          "SaleReturnDate": "2020-10-24T05:23:27.365Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010dsJa3pdqr",
+          "SaleReturnDate": "2020-10-24T06:01:56.920Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010m83xJcrh8",
+          "SaleReturnDate": "2020-10-24T06:08:10.786Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010cIRcOrF6N",
+          "SaleReturnDate": "2020-10-24T06:19:32.550Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010Uuh9jBwq3",
+          "SaleReturnDate": "2020-10-24T06:22:28.985Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010IzGR6GQzq",
+          "SaleReturnDate": "2020-10-24T06:26:43.101Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010tYbpWgR0y",
+          "SaleReturnDate": "2020-10-24T06:31:22.017Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        },
+        {
+          "id": "SRN20010VFC-uhzZZ",
+          "SaleReturnDate": "2020-10-24T12:03:47.114Z",
+          "Status": false,
+          "CreatorId": "cmtliton"
+        }
+      ],
+      "Suppliers": [
+        {
+          "id": "qcpkl-UJ5",
+          "SupplierName": "ACI Limited",
+          "PhoneNumber": "01728493546",
+          "Address": "Dhaka, Bangladesh",
+          "Status": true,
+          "CreatedDate": "2020-09-18T05:25:08.254Z",
+          "CreatorId": "BNlpw3_98"
+        },
+        {
+          "id": "UlH1Vo_Fm",
+          "SupplierName": "Flora Limited",
+          "PhoneNumber": "029551614",
+          "Address": "Dhaka",
+          "Status": true,
+          "CreatedDate": "2020-10-23T15:07:11.171Z",
+          "CreatorId": "BNlpw3_98"
+        }
+      ],
+      "SuppliersPaymentHistory": [],
+      "Users": [
+        {
+          "id": "BNlpw3_98",
+          "fullname": "Md. Liton Miah",
+          "email": "cmtliton@gmail.com",
+          "username": "cmtliton",
+          "status": true,
+          "password": "cmtliton",
+          "role": "Admin",
+          "CreatedDate": "2020-09-16T14:18:54.569Z"
+        }
+      ],
+      "Expenses": [],
+      "Loans": [],
+      "id": "964d5968-f7b8-4e13-a543-26036e3ba72e"
+    }
+  ]
+}
